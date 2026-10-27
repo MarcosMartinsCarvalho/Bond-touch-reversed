@@ -20,6 +20,12 @@ This workspace contains original controller code and research notes. It is not a
 ![Heartbeat flow concept](docs/images/heartbeat-ui-concept.png)
 *Watch → phone → band concept. The watch/ECG sharing implementation is not present in this source tree; this image illustrates the planned flow.*
 
+## My role and learning approach
+
+My main programming background is **C# and Unity**. This is an **AI-assisted learning project**, with substantial AI support for the unfamiliar Java/Android, Python and protocol-analysis work. I chose the goals, guided the experiments, tested on my hardware and used the results to learn.
+
+The languages in this repository describe the tools used to build it. They are not a claim that I can independently develop in each language at the same level as C#. The project demonstrates curiosity, iteration, AI-assisted problem solving and hardware testing alongside my core game-development skills.
+
 ## Start here
 
 - [Complete findings and BLE reference](research/FINDINGS.md)

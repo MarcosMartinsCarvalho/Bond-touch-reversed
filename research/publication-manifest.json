@@ -1,0 +1,467 @@
+[
+  {
+    "source": "04_pc_bridge/bond_ble_probe.py",
+    "published": "tools/ble-probe/bond_ble_probe.py",
+    "sha256": "5e521df395b68751d5c6742c3fd672655080c93c1d6474166054467ceaab213f"
+  },
+  {
+    "source": "04_pc_bridge/requirements.txt",
+    "published": "tools/ble-probe/requirements.txt",
+    "sha256": "4488312d3351b6791fdd2de268cf96f4407a7a8acb5dbc627f46362f46139b6e"
+  },
+  {
+    "source": "05_android_app/BondBandBridge/build.gradle",
+    "published": "apps/android/bridge/build.gradle",
+    "sha256": "14b0dfcb2b31e10d71680708529b75783fd8e09caba1854c464845e2e343c865"
+  },
+  {
+    "source": "05_android_app/BondBandBridge/gradle.properties",
+    "published": "apps/android/bridge/gradle.properties",
+    "sha256": "af6cd21802938a453c067bcc3437b71abef3cfd36abb1815de8c2a15577186a3"
+  },
+  {
+    "source": "05_android_app/BondBandBridge/gradlew",
+    "published": "apps/android/bridge/gradlew",
+    "sha256": "734b3879d3501dce471cf0522d3bcbafe76873d9fc5129345b67fb43bd15e933"
+  },
+  {
+    "source": "05_android_app/BondBandBridge/gradlew.bat",
+    "published": "apps/android/bridge/gradlew.bat",
+    "sha256": "57931b17dd228e5c24dac90e815d0bf82477e831a4618dfab4136f5446b42a9f"
+  },
+  {
+    "source": "05_android_app/BondBandBridge/README.md",
+    "published": "apps/android/bridge/README.md",
+    "sha256": "235629bdd0b47ee5968ba0d0ad61ee2df94ed79a7c6e1872dccc6709ad748781"
+  },
+  {
+    "source": "05_android_app/BondBandBridge/settings.gradle",
+    "published": "apps/android/bridge/settings.gradle",
+    "sha256": "e1ed78ad485ba293560eb0ccb50d5cd0c76937284d62fa28a8b6ec9369584362"
+  },
+  {
+    "source": "05_android_app/BondBandBridge/app/build.gradle",
+    "published": "apps/android/bridge/app/build.gradle",
+    "sha256": "4a52a6635e6cc778f71b3abac18507d192e7602ed371221ae5a8ed0b6181e17b"
+  },
+  {
+    "source": "05_android_app/BondBandBridge/app/src/main/AndroidManifest.xml",
+    "published": "apps/android/bridge/app/src/main/AndroidManifest.xml",
+    "sha256": "d3320c88790e325ea44ebf29df6f83edc39c15775485427a33e0c7a18d2404aa"
+  },
+  {
+    "source": "05_android_app/BondBandBridge/app/src/main/java/com/marco/bondbandbridge/MainActivity.java",
+    "published": "apps/android/bridge/app/src/main/java/com/marco/bondbandbridge/MainActivity.java",
+    "sha256": "5987c9b7fb1c8b3b7b49609bfedb68e185de89cf222ffddeb0cf082d2007f669"
+  },
+  {
+    "source": "05_android_app/BondBandBridge/app/src/main/res/values/strings.xml",
+    "published": "apps/android/bridge/app/src/main/res/values/strings.xml",
+    "sha256": "587903155465048c82b6006cba4277109a6f540a9c46053bbadeb8acd2b34946"
+  },
+  {
+    "source": "05_android_app/BondBandBridge/app/src/main/res/values/styles.xml",
+    "published": "apps/android/bridge/app/src/main/res/values/styles.xml",
+    "sha256": "6fd4be041be88429b322e17f69a359c5ea25d4dda09ded18587520b208218f45"
+  },
+  {
+    "source": "05_android_app/BondBandBridge/gradle/wrapper/gradle-wrapper.jar",
+    "published": "apps/android/bridge/gradle/wrapper/gradle-wrapper.jar",
+    "sha256": "81a82aaea5abcc8ff68b3dfcb58b3c3c429378efd98e7433460610fecd7ae45f"
+  },
+  {
+    "source": "05_android_app/BondBandBridge/gradle/wrapper/gradle-wrapper.properties",
+    "published": "apps/android/bridge/gradle/wrapper/gradle-wrapper.properties",
+    "sha256": "cdab1ffb439219b1db125e3c99a86cf2424f8762b9b3faa404ed061e3635ecde"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/build.gradle",
+    "published": "apps/android/notify/build.gradle",
+    "sha256": "14b0dfcb2b31e10d71680708529b75783fd8e09caba1854c464845e2e343c865"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/gradle.properties",
+    "published": "apps/android/notify/gradle.properties",
+    "sha256": "af6cd21802938a453c067bcc3437b71abef3cfd36abb1815de8c2a15577186a3"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/gradlew",
+    "published": "apps/android/notify/gradlew",
+    "sha256": "734b3879d3501dce471cf0522d3bcbafe76873d9fc5129345b67fb43bd15e933"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/gradlew.bat",
+    "published": "apps/android/notify/gradlew.bat",
+    "sha256": "57931b17dd228e5c24dac90e815d0bf82477e831a4618dfab4136f5446b42a9f"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/settings.gradle",
+    "published": "apps/android/notify/settings.gradle",
+    "sha256": "8b5cf06bebbdd10d71dbb672b2d66cc7302dcb1120ca83c4cb8c448f169c50ee"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/app/build.gradle",
+    "published": "apps/android/notify/app/build.gradle",
+    "sha256": "43afbb6cad8021bb757d167df19ee3c0b817bb92891ad11ed169e8ba115c28a5"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/app/src/main/AndroidManifest.xml",
+    "published": "apps/android/notify/app/src/main/AndroidManifest.xml",
+    "sha256": "3249fb4d78c2c7820ab7d57fed10c497462984141be2b8c56318988cbdbd91e0"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/app/src/main/java/com/marco/bondnotifyhaptics/BondConfig.java",
+    "published": "apps/android/notify/app/src/main/java/com/marco/bondnotifyhaptics/BondConfig.java",
+    "sha256": "f3a593d59f9378b34d202c41c056bbaabee3b66dd1503f56331abd2370cbd3f4"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/app/src/main/java/com/marco/bondnotifyhaptics/BondHapticService.java",
+    "published": "apps/android/notify/app/src/main/java/com/marco/bondnotifyhaptics/BondHapticService.java",
+    "sha256": "4dc06300a3dd574044f4aa5a50db0b25599c759a22b32cc23409fa774750ced2"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/app/src/main/java/com/marco/bondnotifyhaptics/BondNotificationListener.java",
+    "published": "apps/android/notify/app/src/main/java/com/marco/bondnotifyhaptics/BondNotificationListener.java",
+    "sha256": "b94da5eead01c47cd82209ae244cfe53be2e599f501283c21368dc7241a76da7"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/app/src/main/java/com/marco/bondnotifyhaptics/GlassStyle.java",
+    "published": "apps/android/notify/app/src/main/java/com/marco/bondnotifyhaptics/GlassStyle.java",
+    "sha256": "03c9123f13077a73dc135187804fd02a6226b4f79427ae5260ed3574032f706a"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/app/src/main/java/com/marco/bondnotifyhaptics/MainActivity.java",
+    "published": "apps/android/notify/app/src/main/java/com/marco/bondnotifyhaptics/MainActivity.java",
+    "sha256": "9c63c49e133d776f7a46c431bbd2e15067987ef10f1e8b9ee328c5cdfe526fd1"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/app/src/main/res/drawable/ic_bond_notify.xml",
+    "published": "apps/android/notify/app/src/main/res/drawable/ic_bond_notify.xml",
+    "sha256": "2d10c23d90ac90ae3d90af9702149e256809b0f87c0637aed045cc84f214b398"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/app/src/main/res/values/strings.xml",
+    "published": "apps/android/notify/app/src/main/res/values/strings.xml",
+    "sha256": "eac93b4b91f4fbf7ab902c85d7a7763902efa79a7403872ce676fb0b2c553d9f"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/app/src/main/res/values/styles.xml",
+    "published": "apps/android/notify/app/src/main/res/values/styles.xml",
+    "sha256": "cb77dff9eff6b953345755a31137e6a9d3009bc3730b2ecd6d6d1b96b0f7cb54"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/app/src/main/res/values-night/styles.xml",
+    "published": "apps/android/notify/app/src/main/res/values-night/styles.xml",
+    "sha256": "6c48c4ad7fa3a65c8ed49109bb230cd562b3a758c8340263f703a2a6659619aa"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/gradle/wrapper/gradle-wrapper.jar",
+    "published": "apps/android/notify/gradle/wrapper/gradle-wrapper.jar",
+    "sha256": "81a82aaea5abcc8ff68b3dfcb58b3c3c429378efd98e7433460610fecd7ae45f"
+  },
+  {
+    "source": "08_notification_haptics/BondNotifyHaptics/gradle/wrapper/gradle-wrapper.properties",
+    "published": "apps/android/notify/gradle/wrapper/gradle-wrapper.properties",
+    "sha256": "cdab1ffb439219b1db125e3c99a86cf2424f8762b9b3faa404ed061e3635ecde"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/.gitignore",
+    "published": "minecraft/mod/.gitignore",
+    "sha256": "9587f3ba9ee2cd6de8545c2aea70881faa38734187d16fd993346ef44656f73d"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/build.gradle",
+    "published": "minecraft/mod/build.gradle",
+    "sha256": "65c5a9391d99f6b4b616fd1a33574fa0e28d15976e6f9c8a6c4f61eac22b4b92"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/gradle.properties",
+    "published": "minecraft/mod/gradle.properties",
+    "sha256": "fc742e3480ae410a58df95396092f9b1124145cb412d8941e77a90b657961dbc"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/gradlew",
+    "published": "minecraft/mod/gradlew",
+    "sha256": "28d2c82e7f9cca986ee8da10ba939cf9260d682f73936b2b6d2545e35360ce7b"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/gradlew.bat",
+    "published": "minecraft/mod/gradlew.bat",
+    "sha256": "1d297e00bd21de3ace22b4d7f2de1f9dfa858883d66bbf7c1ccbecccec8f4f3b"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/README.md",
+    "published": "minecraft/mod/README.md",
+    "sha256": "d4159e950960fcc866de3bf475bc9a21d09e7fddb1f49ee065def73ee489cf2e"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/settings.gradle",
+    "published": "minecraft/mod/settings.gradle",
+    "sha256": "fe5410a4f8375ad1d0ceb4d3739cf1c3ddb67ee303a98511e6dd379a29377e54"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/TEMPLATE_LICENSE.txt",
+    "published": "minecraft/mod/TEMPLATE_LICENSE.txt",
+    "sha256": "109b4750c5eba4e13bdff98cdfe1cee32e08ebb33fa04a18a853e0ee7cbd821f"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/.vscode/launch.json",
+    "published": "minecraft/mod/.vscode/launch.json",
+    "sha256": "9fa4a0cb5b59abddf6938e278e0c1834fa7889f2185e695d9e061bf2a83566ae"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/.github/workflows/build.yml",
+    "published": "minecraft/mod/.github/workflows/build.yml",
+    "sha256": "2f00b1ffaba8b45d9e53cfac524450ec07dc9baa95d2e6325008152bdc730880"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/gradle/wrapper/gradle-wrapper.jar",
+    "published": "minecraft/mod/gradle/wrapper/gradle-wrapper.jar",
+    "sha256": "7d3a4ac4de1c32b59bc6a4eb8ecb8e612ccd0cf1ae1e99f66902da64df296172"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/gradle/wrapper/gradle-wrapper.properties",
+    "published": "minecraft/mod/gradle/wrapper/gradle-wrapper.properties",
+    "sha256": "12477f32fffa5c8d0de945ce81005a4a7a19a55182d916644a0fcfe0fab946a6"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/src/main/java/com/marco/bondcraft/BondCraft.java",
+    "published": "minecraft/mod/src/main/java/com/marco/bondcraft/BondCraft.java",
+    "sha256": "24101ca0fdb337568e614f09c6191f0fd09bbd8c0624842345a3a2abfeb710fe"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/src/main/java/com/marco/bondcraft/BondCraftClient.java",
+    "published": "minecraft/mod/src/main/java/com/marco/bondcraft/BondCraftClient.java",
+    "sha256": "928298627376ec961dec66148caa6f278dd39b285e398b739587e5e3143cac99"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/src/main/java/com/marco/bondcraft/BondCraftConfig.java",
+    "published": "minecraft/mod/src/main/java/com/marco/bondcraft/BondCraftConfig.java",
+    "sha256": "68fdb3c04c63e391cab579628c8bbdee3d0e7f3fb09b1fa0bf7ba5fb969e1939"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/src/main/java/com/marco/bondcraft/BridgeClient.java",
+    "published": "minecraft/mod/src/main/java/com/marco/bondcraft/BridgeClient.java",
+    "sha256": "0d657e84ca78117007525d6cb38be861bc270dfa9a1d3ceb277bb09ee7ec28bd"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/src/main/java/com/marco/bondcraft/CobblemonBattleScanner.java",
+    "published": "minecraft/mod/src/main/java/com/marco/bondcraft/CobblemonBattleScanner.java",
+    "sha256": "c407df40eba800eb49156a36f7331a8dc8ec68a40317fc9f1b345fa61133ad0e"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/src/main/java/com/marco/bondcraft/HapticRule.java",
+    "published": "minecraft/mod/src/main/java/com/marco/bondcraft/HapticRule.java",
+    "sha256": "a79290a2001dbe1321cb53aad666da3beb7d81622c8c7bf21e17ca9a799ab04d"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/src/main/java/com/marco/bondcraft/HapticSettings.java",
+    "published": "minecraft/mod/src/main/java/com/marco/bondcraft/HapticSettings.java",
+    "sha256": "4ce724b98c2e13f58c77ca4f4a583f6dc5b480313e3997c2a0b8454c5a895505"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/src/main/java/com/marco/bondcraft/HapticSettingsScreen.java",
+    "published": "minecraft/mod/src/main/java/com/marco/bondcraft/HapticSettingsScreen.java",
+    "sha256": "f527ad14d6359f40ba00026075c95c84a75cb6f13ea23b3d4e01d1c32c13304e"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/src/main/java/com/marco/bondcraft/HapticSettingsStore.java",
+    "published": "minecraft/mod/src/main/java/com/marco/bondcraft/HapticSettingsStore.java",
+    "sha256": "72d51f92e0e084ff84903c4be7b1fea0cfee1c42e1c53ba3deabd3bff4f29b7d"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/src/main/java/com/marco/bondcraft/MinecraftEventScanner.java",
+    "published": "minecraft/mod/src/main/java/com/marco/bondcraft/MinecraftEventScanner.java",
+    "sha256": "bbfab6406c6599240d7e10e8fc94cfcbf94aafc6b46291933b1f9d586a6e49e0"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/src/main/resources/assets/bondcraft/lang/en_us.json",
+    "published": "minecraft/mod/src/main/resources/assets/bondcraft/lang/en_us.json",
+    "sha256": "487407878ddc8f50caace132feffb911d3fb8eb58c0bae5e94751b3436dcb93c"
+  },
+  {
+    "source": "06_minecraft_bridge/neoforge_mod/src/main/templates/META-INF/neoforge.mods.toml",
+    "published": "minecraft/mod/src/main/templates/META-INF/neoforge.mods.toml",
+    "sha256": "2f7d013b7c32170bb6f364ecb5497ff6c6aeb13f5cc4fa1924f193a7c9158abb"
+  },
+  {
+    "source": "06_minecraft_bridge/pc_companion/bondcraft_companion.py",
+    "published": "minecraft/bridge/python/bondcraft_companion.py",
+    "sha256": "4a4a158b27a73d59ef3dd6bb8dd795aca30e0dabadb32394546a0d5f5c9c4f8d"
+  },
+  {
+    "source": "06_minecraft_bridge/pc_companion/README.md",
+    "published": "minecraft/bridge/python/README.md",
+    "sha256": "510ad012ecdb1bf317bc0527a1a8b0d379a5c26c07750c890a8d9ab3e8b6204a"
+  },
+  {
+    "source": "06_minecraft_bridge/pc_bridge_dotnet/BondCraftBridge/BondCraftBridge.csproj",
+    "published": "minecraft/bridge/dotnet/BondCraftBridge/BondCraftBridge.csproj",
+    "sha256": "895fcbff080d96fcb117b1b42c64f850a18d77f24cfab6af5da349b4a74d5614"
+  },
+  {
+    "source": "06_minecraft_bridge/pc_bridge_dotnet/BondCraftBridge/Program.cs",
+    "published": "minecraft/bridge/dotnet/BondCraftBridge/Program.cs",
+    "sha256": "d5c42c5fa216a848705bccca5f1a5c964b9b00720c31383cf595288b6d2db8c8"
+  },
+  {
+    "source": "07_audio_bass_haptics/BondBassHaptics/BondBassHaptics.csproj",
+    "published": "audio/windows/BondBassHaptics.csproj",
+    "sha256": "3d1fe4683be79df484c8f4a1fae6285d25f7fc1350c242c05a8b9ad401ffb44e"
+  },
+  {
+    "source": "07_audio_bass_haptics/BondBassHaptics/Program.cs",
+    "published": "audio/windows/Program.cs",
+    "sha256": "bc95c1ca94d24eb58a1f15e5102621425b00d52b939fe39b75bcc057e3a383ac"
+  },
+  {
+    "source": "10_e87_bike_bridge/E87BikeBridge/build.gradle",
+    "published": "experiments/e87-bike-bridge/build.gradle",
+    "sha256": "14b0dfcb2b31e10d71680708529b75783fd8e09caba1854c464845e2e343c865"
+  },
+  {
+    "source": "10_e87_bike_bridge/E87BikeBridge/gradle.properties",
+    "published": "experiments/e87-bike-bridge/gradle.properties",
+    "sha256": "af6cd21802938a453c067bcc3437b71abef3cfd36abb1815de8c2a15577186a3"
+  },
+  {
+    "source": "10_e87_bike_bridge/E87BikeBridge/gradlew",
+    "published": "experiments/e87-bike-bridge/gradlew",
+    "sha256": "734b3879d3501dce471cf0522d3bcbafe76873d9fc5129345b67fb43bd15e933"
+  },
+  {
+    "source": "10_e87_bike_bridge/E87BikeBridge/gradlew.bat",
+    "published": "experiments/e87-bike-bridge/gradlew.bat",
+    "sha256": "57931b17dd228e5c24dac90e815d0bf82477e831a4618dfab4136f5446b42a9f"
+  },
+  {
+    "source": "10_e87_bike_bridge/E87BikeBridge/settings.gradle",
+    "published": "experiments/e87-bike-bridge/settings.gradle",
+    "sha256": "fa092b1ea908acd94f71e8f74217521ab7e8f5322949ccfb271c0996c87c7679"
+  },
+  {
+    "source": "10_e87_bike_bridge/E87BikeBridge/app/build.gradle",
+    "published": "experiments/e87-bike-bridge/app/build.gradle",
+    "sha256": "b6c80874f7b4d70ff131f13335c8828d955a7e4b3d2c39cfa73d555ea9d70452"
+  },
+  {
+    "source": "10_e87_bike_bridge/E87BikeBridge/app/src/main/AndroidManifest.xml",
+    "published": "experiments/e87-bike-bridge/app/src/main/AndroidManifest.xml",
+    "sha256": "72788b5895372e7948dc1552e9aeb6a45828c3f213030b46b02aae821d49186a"
+  },
+  {
+    "source": "10_e87_bike_bridge/E87BikeBridge/app/src/main/java/com/marco/e87bikebridge/MainActivity.java",
+    "published": "experiments/e87-bike-bridge/app/src/main/java/com/marco/e87bikebridge/MainActivity.java",
+    "sha256": "615741001a8d8943a79e26955c02690eee9f25bbb1f1b88872ff362adffd252a"
+  },
+  {
+    "source": "10_e87_bike_bridge/E87BikeBridge/app/src/main/res/values/strings.xml",
+    "published": "experiments/e87-bike-bridge/app/src/main/res/values/strings.xml",
+    "sha256": "01e6eb21a7fd72fb60b21ea32b5f082cb93564df3fa2994c1c9631d947c88841"
+  },
+  {
+    "source": "10_e87_bike_bridge/E87BikeBridge/app/src/main/res/values/styles.xml",
+    "published": "experiments/e87-bike-bridge/app/src/main/res/values/styles.xml",
+    "sha256": "994d7bf7589001b3dc9ce02339b814e3256daf966a77ec6e9693efe7bd13a7b3"
+  },
+  {
+    "source": "10_e87_bike_bridge/E87BikeBridge/gradle/wrapper/gradle-wrapper.jar",
+    "published": "experiments/e87-bike-bridge/gradle/wrapper/gradle-wrapper.jar",
+    "sha256": "81a82aaea5abcc8ff68b3dfcb58b3c3c429378efd98e7433460610fecd7ae45f"
+  },
+  {
+    "source": "10_e87_bike_bridge/E87BikeBridge/gradle/wrapper/gradle-wrapper.properties",
+    "published": "experiments/e87-bike-bridge/gradle/wrapper/gradle-wrapper.properties",
+    "sha256": "cdab1ffb439219b1db125e3c99a86cf2424f8762b9b3faa404ed061e3635ecde"
+  },
+  {
+    "source": "docs/reference/05_android_app-BondBandBridge-README.md",
+    "published": "research/notes/05_android_app-BondBandBridge-README.md",
+    "sha256": "235629bdd0b47ee5968ba0d0ad61ee2df94ed79a7c6e1872dccc6709ad748781"
+  },
+  {
+    "source": "docs/reference/06_minecraft_bridge-pc_companion-README.md",
+    "published": "research/notes/06_minecraft_bridge-pc_companion-README.md",
+    "sha256": "510ad012ecdb1bf317bc0527a1a8b0d379a5c26c07750c890a8d9ab3e8b6204a"
+  },
+  {
+    "source": "docs/reference/06_minecraft_bridge-README.md",
+    "published": "research/notes/06_minecraft_bridge-README.md",
+    "sha256": "21e99910bd417a52305b80fa154aaa5ff85d5d691a6b6b2a7c4aa499065e5882"
+  },
+  {
+    "source": "docs/reference/07_audio_bass_haptics-README.md",
+    "published": "research/notes/07_audio_bass_haptics-README.md",
+    "sha256": "6d8ab6d5c7e8d116f24fbb33eb4e6ad110cb952842eff28edc738fe4c149092d"
+  },
+  {
+    "source": "docs/reference/08_notification_haptics-README.md",
+    "published": "research/notes/08_notification_haptics-README.md",
+    "sha256": "94121dbe87707af898277472b932d4b7f9a7a4c7314802d0a220a5874948ae06"
+  },
+  {
+    "source": "docs/reference/09_e87_badge-e87_findings.md",
+    "published": "research/notes/09_e87_badge-e87_findings.md",
+    "sha256": "f99ef4b55c47b5d2e0b62e0c3338793ae2bb16eb7e1e6cb394618f5551e8a2b1"
+  },
+  {
+    "source": "docs/reference/10_e87_bike_bridge-README.md",
+    "published": "research/notes/10_e87_bike_bridge-README.md",
+    "sha256": "f0771c56c0d563962d72a7dacb887f7c65562a156ca4a7197950c3781f01f5a8"
+  },
+  {
+    "source": "docs/reference/11_s75_bike-findings.md",
+    "published": "research/notes/11_s75_bike-findings.md",
+    "sha256": "c7357e8a54f2039f944b0c6b2b376fd956ea0b00cb1f914bd6be9abac173ae7a"
+  },
+  {
+    "source": "docs/reference/app-flow-map.md",
+    "published": "research/notes/app-flow-map.md",
+    "sha256": "1d393a3a9a8b91a360dec39e5548e472fb4befb288dd8dbed54dc47fd9e37659"
+  },
+  {
+    "source": "docs/reference/bond-notify-redesign-2026-10-27.md",
+    "published": "research/notes/bond-notify-redesign-2026-10-27.md",
+    "sha256": "f20c1c4a29c13de67b276dca156029e777fcd4e1e02adb42d7eededc06a1c5cc"
+  },
+  {
+    "source": "docs/reference/color-command-map.md",
+    "published": "research/notes/color-command-map.md",
+    "sha256": "46fc1f305564b0e1172698908667cb90a72142ab7693fab674ec83c511e1f658"
+  },
+  {
+    "source": "docs/reference/handoff-dossier.md",
+    "published": "research/notes/handoff-dossier.md",
+    "sha256": "6efc38d1063c0c538050942bd8cadb09b8d5e96d3b112717715926b494ecb075"
+  },
+  {
+    "source": "docs/reference/index.md",
+    "published": "research/notes/index.md",
+    "sha256": "3bd357f85fbcd2b8529e83d6c45780321e889af4a13c739df5d3292858bac16d"
+  },
+  {
+    "source": "docs/reference/initialization-sequence.md",
+    "published": "research/notes/initialization-sequence.md",
+    "sha256": "1f5fbf90f86f7353e5d7697cbd7b2a18773070b218c7d1efe7da1f26fb119a64"
+  },
+  {
+    "source": "docs/reference/minecraft-rule-defaults.md",
+    "published": "research/notes/minecraft-rule-defaults.md",
+    "sha256": "604f38f732c6248cfc2e7e599b05b39d40d8dd2846ad20504173ba6e98fd67cd"
+  },
+  {
+    "source": "docs/reference/notification-haptics-app.md",
+    "published": "research/notes/notification-haptics-app.md",
+    "sha256": "c4103d629c045e3069c98a106c86258589b7ed79b79453bf6bef51ff71959271"
+  },
+  {
+    "source": "docs/reference/protocol-map.md",
+    "published": "research/notes/protocol-map.md",
+    "sha256": "d9c0ab4e1211d8587f622148bd7a5a7b7caef5bcdc9d96b423b29048623b0cac"
+  },
+  {
+    "source": "docs/reference/worklog.md",
+    "published": "research/notes/worklog.md",
+    "sha256": "2fec5c7eb4a17730e7823c02d03ba8d37a48c2db8a1f12744e8de9fac5c956c3"
+  }
+]

@@ -1,0 +1,21 @@
+# Local settings and generated artifacts
+**/local.properties
+**/.gradle/
+**/build/
+**/bin/
+**/obj/
+**/.venv/
+**/__pycache__/
+**/.idea/
+**/settings.json
+*.log
+*.apk
+*.dex
+*.bin
+*.qixpkg
+*.ab
+.env
+.env.*
+research/decompiled-app/local/
+research/decompiled-app/apks/
+# Gradle wrapper JARs are source build tooling and intentionally included.

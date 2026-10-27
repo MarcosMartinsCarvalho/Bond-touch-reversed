@@ -1,0 +1,13 @@
+{
+  "bondcraft.configuration.title": "BondCraft Haptics",
+  "bondcraft.configuration.section.bondcraft.client.toml": "BondCraft Haptics",
+  "bondcraft.configuration.section.bondcraft.client.toml.title": "BondCraft Haptics",
+  "bondcraft.configuration.enabled": "Enable BondCraft bridge",
+  "bondcraft.configuration.bridgeUrl": "PC companion URL",
+  "bondcraft.configuration.creeperRadius": "Creeper warning radius",
+  "bondcraft.configuration.hostileRadius": "Hostile warning radius",
+  "bondcraft.configuration.stepDistanceCm": "Step distance",
+  "bondcraft.configuration.verboseLogging": "Verbose event logging",
+  "key.bondcraft.open_settings": "Open BondCraft Haptics",
+  "key.categories.bondcraft": "BondCraft"
+}
